@@ -27,7 +27,7 @@ main{
 section#telefone {
     position: absolute;
     top: 50%;
-    left: 49%;
+    left: 50%;
     transform: translate(-50%, -50%);
     height: 627px;
     width: 311px;
